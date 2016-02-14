@@ -1,8 +1,8 @@
 # Setting up AWS to host a website
 
-(http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html)
+http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
 
-(http://ec2-52-90-3-232.compute-1.amazonaws.com)
+http://ec2-52-90-3-232.compute-1.amazonaws.com
 ###Sign Up for AWS
 
 When you sign up for Amazon Web Services (AWS), your AWS account is automatically signed up for all services in AWS and you can start using them immediately. You are charged only for the services that you use.
